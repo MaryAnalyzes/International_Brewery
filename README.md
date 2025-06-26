@@ -17,3 +17,6 @@ This analysis empowers decision-makers with the insights needed to optimize sale
 -[Data_Visualization](#Data_Visualization)
 -[Insights](#Insights)
 -[Recommendation](#Recommendation)
+
+## SQL query
+![image](https://github.com/MaryAnalyzes/International_Brewery/blob/main/Brewery%20SQL.sql)
