@@ -23,3 +23,15 @@ This analysis empowers decision-makers with the insights needed to optimize sale
 
 ## Data Visualization
 ![image](https://github.com/MaryAnalyzes/International_Brewery/blob/main/real%20brewery.png?raw=true)
+
+## Insights
+-Francophone countries emerged as the key drivers of profitability for the international brewery.
+
+-Castle lite stands out as the most profitable brand across all international market. This suggests that it enjoys strong demand, healthy pricing power, and effective cost management in its production and distribution.
+
+## Recommendation 
+-Expand product portfolio by introducing new variants tailored to regional tastes in francophone territories, capitalizing on existing brand loyalty and higher purchasing power.
+
+-Invest in localized campaigns tailored to cultural preferences to improve brand resonance and consumer loyalty and boost profitability in the anglophone countries.
+
+-Use the performance data from current successful territories to identify similar markets(demographic, consumption trends) where castle lite can expand.
