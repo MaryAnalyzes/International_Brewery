@@ -20,3 +20,6 @@ This analysis empowers decision-makers with the insights needed to optimize sale
 
 ## SQL query
 ![image](https://github.com/MaryAnalyzes/International_Brewery/blob/main/Brewery%20SQL.sql)
+
+## Data Visualization
+![image](https://github.com/MaryAnalyzes/International_Brewery/blob/main/real%20brewery.png?raw=true)
