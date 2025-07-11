@@ -1,5 +1,5 @@
 # International Brewery Market Analysis
-This comprehensive analysis provides a detailed view of global sales performance across our international brewery operations. It highlights key metrics and insights across multiple dimensions, including:
+This comprehensive analysis provides a detailed view of global sales performance across the international brewery operations. It highlights key metrics and insights across multiple dimensions, including:
 
 -Sales Performance
 
